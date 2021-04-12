@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+Main-Class: com.decent.product.ProductApplication
+Class-Path: ribbon-transport-2.3.0.jar archaius-core-0.7.6.jar jackson-d
+ atatype-jdk8-2.11.1.jar mybatis-spring-boot-starter-1.3.0.jar spring-bo
+ ot-starter-jdbc-2.3.2.RELEASE.jar spring-retry-1.2.5.RELEASE.jar ribbon
+ -loadbalancer-2.3.0.jar amqp-client-5.9.0.jar tomcat-embed-websocket-9.
+ 0.37.jar sentinel-transport-common-1.8.0.jar netty-transport-4.1.51.Fin
+ al.jar aspectjrt-1.9.6.jar simpleclient-0.5.0.jar mybatis-3.4.4.jar asp
+ ectjweaver-1.9.6.jar jackson-module-parameter-names-2.11.1.jar jsr311-a
+ pi-1.1.1.jar netty-codec-4.1.51.Final.jar sentinel-spring-webflux-adapt
+ er-1.8.0.jar jackson-annotations-2.11.1.jar log4j-to-slf4j-2.13.3.jar c
+ ommons-lang-2.6.jar spring-boot-2.3.2.RELEASE.jar httpclient-4.5.12.jar
+  commons-lang3-3.7.jar sentinel-cluster-client-default-1.8.0.jar rxnett
+ y-0.4.9.jar jsqlparser-3.2.jar spring-jcl-5.2.8.RELEASE.jar spring-boot
+ -starter-amqp-2.3.2.RELEASE.jar commons-dbcp2-2.7.0.jar nacos-api-1.3.3
+ .jar sentinel-annotation-aspectj-1.8.0.jar commons-fileupload-1.4.jar j
+ ackson-datatype-jsr310-2.11.1.jar rxnetty-contexts-0.4.9.jar feign-hyst
+ rix-10.10.1.jar httpcore-4.4.5.jar spring-boot-starter-web-2.3.2.RELEAS
+ E.jar bcpkix-jdk15on-1.64.jar hystrix-core-1.5.18.jar snakeyaml-1.26.ja
+ r netty-common-4.1.51.Final.jar spring-cloud-alibaba-sentinel-datasourc
+ e-2.2.3.RELEASE.jar httpcore-nio-4.4.13.jar jackson-databind-2.11.1.jar
+  sentinel-parameter-flow-control-1.8.0.jar pagehelper-5.2.0.jar reactiv
+ e-streams-1.0.3.jar lettuce-core-5.3.2.RELEASE.jar feign-slf4j-10.10.1.
+ jar spring-boot-starter-data-redis-2.3.2.RELEASE.jar spring-cloud-start
+ er-alibaba-sentinel-2.2.3.RELEASE.jar spring-webmvc-5.2.8.RELEASE.jar c
+ hecker-qual-3.5.0.jar spring-cloud-circuitbreaker-sentinel-2.2.3.RELEAS
+ E.jar ribbon-2.3.0.jar HdrHistogram-2.1.9.jar jsr305-3.0.2.jar commons-
+ io-2.2.jar spring-cloud-commons-2.2.5.RELEASE.jar feign-form-spring-3.8
+ .0.jar spring-web-5.2.8.RELEASE.jar error_prone_annotations-2.3.4.jar j
+ 2objc-annotations-1.3.jar rxnetty-servo-0.4.9.jar spring-tx-5.2.8.RELEA
+ SE.jar spring-cloud-context-2.2.5.RELEASE.jar jul-to-slf4j-1.7.30.jar t
+ omcat-embed-core-9.0.37.jar javax.inject-1.jar feign-form-3.8.0.jar spr
+ ing-oxm-5.2.8.RELEASE.jar rxjava-1.3.8.jar netty-resolver-4.1.51.Final.
+ jar feign-core-10.10.1.jar jackson-core-2.11.1.jar spring-amqp-2.2.9.RE
+ LEASE.jar jersey-client-1.19.1.jar spring-cloud-starter-netflix-ribbon-
+ 2.2.5.RELEASE.jar ribbon-core-2.3.0.jar spring-cloud-starter-netflix-ar
+ chaius-2.2.5.RELEASE.jar slf4j-api-1.7.30.jar spring-cloud-starter-alib
+ aba-nacos-config-2.2.3.RELEASE.jar spring-cloud-starter-alibaba-nacos-d
+ iscovery-2.2.3.RELEASE.jar lombok-1.16.18.jar log4j-api-2.13.3.jar page
+ helper-spring-boot-autoconfigure-1.3.0.jar spring-boot-autoconfigure-2.
+ 3.2.RELEASE.jar bcprov-jdk15on-1.64.jar sentinel-transport-simple-http-
+ 1.8.0.jar sentinel-reactor-adapter-1.8.0.jar spring-beans-5.2.8.RELEASE
+ .jar spring-cloud-starter-openfeign-2.2.5.RELEASE.jar jakarta.annotatio
+ n-api-1.3.5.jar spring-boot-starter-json-2.3.2.RELEASE.jar reactor-core
+ -3.3.8.RELEASE.jar mysql-connector-java-5.1.47.jar spring-cloud-starter
+ -2.2.5.RELEASE.jar sentinel-cluster-common-default-1.8.0.jar mybatis-sp
+ ring-boot-autoconfigure-1.3.0.jar sentinel-datasource-nacos-1.8.0.jar c
+ ommons-pool2-2.8.0.jar logback-core-1.2.3.jar listenablefuture-9999.0-e
+ mpty-to-avoid-conflict-with-guava.jar spring-boot-starter-aop-2.3.2.REL
+ EASE.jar fastjson-1.2.75.jar failureaccess-1.0.1.jar HikariCP-3.4.5.jar
+  nacos-common-1.3.3.jar jersey-apache-client4-1.19.1.jar spring-express
+ ion-5.2.8.RELEASE.jar guava-30.1-jre.jar spring-boot-starter-logging-2.
+ 3.2.RELEASE.jar nacos-client-1.3.3.jar sentinel-spring-webmvc-adapter-1
+ .8.0.jar logback-classic-1.2.3.jar netty-handler-4.1.51.Final.jar sprin
+ g-rabbit-2.2.9.RELEASE.jar concurrentlinkedhashmap-lru-1.4.2.jar spring
+ -security-crypto-5.3.3.RELEASE.jar spring-context-5.2.8.RELEASE.jar spr
+ ing-cloud-openfeign-core-2.2.5.RELEASE.jar commons-configuration-1.8.ja
+ r spring-core-5.2.8.RELEASE.jar netty-buffer-4.1.51.Final.jar sentinel-
+ datasource-extension-1.8.0.jar spring-data-keyvalue-2.3.2.RELEASE.jar s
+ entinel-cluster-server-default-1.8.0.jar spring-data-commons-2.3.2.RELE
+ ASE.jar sentinel-core-1.8.0.jar spring-cloud-netflix-ribbon-2.2.5.RELEA
+ SE.jar jakarta.el-3.0.3.jar spring-aop-5.2.8.RELEASE.jar commons-codec-
+ 1.14.jar httpasyncclient-4.1.4.jar ribbon-httpclient-2.3.0.jar spring-j
+ dbc-5.2.8.RELEASE.jar commons-collections-3.2.2.jar spring-boot-starter
+ -2.3.2.RELEASE.jar spring-boot-starter-tomcat-2.3.2.RELEASE.jar spring-
+ security-rsa-1.0.9.RELEASE.jar spring-messaging-5.2.8.RELEASE.jar mybat
+ is-spring-1.3.1.jar spring-cloud-netflix-archaius-2.2.5.RELEASE.jar ser
+ vo-core-0.12.21.jar pagehelper-spring-boot-starter-1.3.0.jar jersey-cor
+ e-1.19.1.jar spring-context-support-5.2.8.RELEASE.jar spring-context-su
+ pport-1.0.10.jar netflix-statistics-0.1.1.jar netflix-commons-util-0.3.
+ 0.jar spring-data-redis-2.3.2.RELEASE.jar
+

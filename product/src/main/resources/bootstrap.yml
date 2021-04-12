@@ -1,0 +1,20 @@
+server:
+  port: 10002
+spring:
+  application:
+    name: product-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.16.0.210:4399
+        username: nacos
+        password: nacos
+        ip: 172.16.0.210
+        port: 10002
+      config:
+        enabled: true  # 如果不想使用 Nacos 进行配置管理，设置为 false 即可
+        username: nacos
+        password: nacos
+        server-addr: 172.16.0.210:4399
+        group: PRODUCT_SERVICE_GROUP # 组，默认为 DEFAULT_GROUP
+        file-extension: yaml # 配置内容的数据格式，默认为 properties

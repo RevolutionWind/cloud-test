@@ -1,0 +1,17 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      config:
+        file-extension: yaml
+        server-addr: 172.16.0.210:4399
+        group: ORDER-SERVICE-GROUP
+      discovery:
+        server-addr: 172.16.0.210:4399
+        ip: 172.16.0.210
+        port: 10003
+server:
+  port: 10003
