@@ -1,7 +1,7 @@
 package com.decent.common.pojo;
 
 /**
- * @author jiangy
+ * @author sunxy
  * @date 2021/1/5
  */
 public class CommonConstant {

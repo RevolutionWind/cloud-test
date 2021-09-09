@@ -24,7 +24,7 @@ import java.util.UUID;
 /**
  * 用户优惠券管理
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2020/12/31
  */
 @Slf4j

@@ -9,7 +9,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
- * @author jiangy
+ * @author sunxy
  * @date 2021/1/9
  */
 @Data

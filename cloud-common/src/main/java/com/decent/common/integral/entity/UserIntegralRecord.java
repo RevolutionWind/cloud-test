@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * 用户积分记录
  * <p>
  * <br/>
- * @Author: zhangqi
+ * @Author: sunxy
  * @create 2021/1/7 21:27
  */
 @Data

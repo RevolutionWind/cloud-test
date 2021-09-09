@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
  * 用户积分sql
  * <p>
  * <br/>
- * @Author: zhangqi
+ * @Author: sunxy
  * @create 2021/1/7 21:10
  */
 @Mapper

@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 优惠券SQL
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2020/12/19
  */
 @Mapper

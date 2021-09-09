@@ -8,7 +8,7 @@ import com.decent.common.pojo.SimpleMessage;
  * 用户积分服务 接口
  * <p>
  * <br/>
- * @Author: zhangqi
+ * @Author: sunxy
  * @create 2021/1/7 21:33
  */
 public interface UserIntegralService {

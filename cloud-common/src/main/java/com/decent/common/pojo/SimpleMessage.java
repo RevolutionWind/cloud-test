@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 接口简易返回信息
  *
- * @author wangyx
+ * @author sunxy
  */
 @Data
 @JsonInclude(JsonInclude.Include.NON_NULL)

@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 /**
  * 优惠券的DTO
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2021/1/3
  */
 @EqualsAndHashCode(callSuper = true)

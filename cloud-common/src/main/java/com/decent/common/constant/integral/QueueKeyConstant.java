@@ -5,7 +5,7 @@ package com.decent.common.constant.integral;
  * <p>
  * <br/>
  *
- * @Author: zhangqi
+ * @Author: sunxy
  * @create 2021/1/9 16:35
  */
 public interface QueueKeyConstant {

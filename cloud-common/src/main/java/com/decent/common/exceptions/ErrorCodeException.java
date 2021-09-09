@@ -4,7 +4,7 @@ package com.decent.common.exceptions;
 import com.decent.common.enums.ErrorCodeEnum;
 
 /**
- * @author zhongzq
+ * @author sunxy
  */
 @SuppressWarnings("unused")
 public class ErrorCodeException extends RuntimeException {

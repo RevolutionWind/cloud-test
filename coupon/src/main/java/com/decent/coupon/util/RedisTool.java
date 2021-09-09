@@ -11,7 +11,7 @@ import java.util.Objects;
 /**
  * REDIS分布式锁
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2020/12/31
  */
 @Slf4j

@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 优惠券管理
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2020/12/31
  */
 public interface CouponService {

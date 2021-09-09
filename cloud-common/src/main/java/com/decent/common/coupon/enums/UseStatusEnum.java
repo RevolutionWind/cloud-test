@@ -5,7 +5,7 @@ import lombok.Getter;
 /**
  * 优惠券使用状态
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2020/12/19
  */
 @Getter

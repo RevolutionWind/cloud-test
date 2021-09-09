@@ -14,7 +14,7 @@ import java.time.LocalDateTime;
  * 用户优惠券
  * <p>
  * <br/>
- * @Author: zhangqi
+ * @Author: sunxy
  * @create 2021/1/7 21:19
  */
 @Data

@@ -5,7 +5,7 @@ import java.security.MessageDigest;
 /**
  * MD5加密工具
  *
- * @author wangyx
+ * @author sunxy
  */
 public final class Md5 {
     /**

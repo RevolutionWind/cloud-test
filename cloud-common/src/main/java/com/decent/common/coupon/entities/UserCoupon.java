@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 /**
  * 用户、优惠券绑定
  *
- * @author zhangjun
+ * @author sunxy
  * @date 2020/12/19
  */
 @Data

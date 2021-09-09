@@ -3,7 +3,7 @@ package com.decent.common.enums;
 /**
  * 全局http错误编码
  *
- * @author wangyx
+ * @author sunxy
  */
 public enum ErrorCodeEnum {
     /**

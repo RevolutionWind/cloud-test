@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 接口返回信息
  *
- * @author wangyx
+ * @author sunxy
  */
 @Data
 public class MessageBean implements Serializable {

@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 /**
  * 品牌属性列表
  *
- * @author Max
+ * @author sunxy
  * @date 2021/1/10 10:20
  */
 @Data

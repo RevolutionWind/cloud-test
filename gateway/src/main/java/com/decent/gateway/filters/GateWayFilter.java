@@ -24,7 +24,7 @@ import java.util.List;
 /**
  * 全局网关过滤器
  *
- * @author wangyx
+ * @author sunxy
  */
 @Slf4j
 @Component
